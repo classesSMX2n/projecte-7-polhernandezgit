@@ -4,3 +4,4 @@ Heu muntat la vostra pròpia empresa de serveis informàtics a Mataró. Tot just
 Necessiten una renovació a fons de la seva infraestructura tecnològica i per la vostra empresa, és la gran oportunitat per assegurar un client a llarg termini, però compte, no sou els únics a la ciutat! Haureu de presentar una proposta competitiva que convenci a l’equip directiu de FoodLogístic i per fer-ho, primer heu d’entendre com funciona el sector i qui és la vostra competència.
 
 Enllaç a la solucio
+[Solucio.md](./Solucio.md)
