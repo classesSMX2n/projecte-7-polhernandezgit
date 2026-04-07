@@ -19,3 +19,4 @@ En aquesta activitat, posarem en pràctica la guia de desplegament que teniu a l
 - S’implementa un “Comptador Invisible” amb StatCounter per fer un seguiment de les visites.
 
 ## Enllaç de la solucio
+[Solucio.md](./Solucio.md)
