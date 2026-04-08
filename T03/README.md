@@ -5,3 +5,4 @@ FoodLogistic  no ha estat una excepció, cada departament guardava la documentac
 
 L'objectiu és implementar una infraestructura de fitxers segura, organitzada i amb control d'espai, utilitzant permisos NTFS/SMB, quotes i filtratge de fitxers (FSRM). Haureu de demostrar el domini de les tres vies d'administració: l'Explorador de fitxers, el Server Manager i PowerShell.
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
