@@ -30,11 +30,11 @@ Farem una mitjana de les tres empreses per fer l’organigrama.
 ## Definició de l’estratègia: Cal que penseu quina serà la vostra proposta de valor per assegurar-vos ser els escollits enfront de la competència. Exemple: proximitat, servei 24/7, preu baix, etc.
 La nostra proposta de valor es basa en tres pilars:
 
-**- L’Efecte Km 0:** Som de Mataró i estem a Mataró. En cas de fallada crítica que no es pugui resoldre en remot, garantim un tècnic en menys de 60 minuts. La competència sovint ve de Barcelona o té massa volum per ser tan ràpida.
+**- L’Efecte Km 0:** Són de Mataró. En cas de fallada crítica que no es pugui resoldre en remot, garanteixen un tècnic en menys de 60 minuts. La competència sovint ve de Barcelona o té massa volum per ser tan ràpida.
 
-**- Ciberseguretat Nativa:** No venem el manteniment i la seguretat com a coses separades. Tots els nostres plans inclouen còpies de seguretat immutables contra ransomware i formació bàsica als empleats del client de sèrie.
+**- Ciberseguretat Nativa:** No venen el manteniment i la seguretat com a coses separades. Tots els seus plans inclouen còpies de seguretat immutables contra ransomware i formació bàsica als empleats del client de sèrie.
 
-**- Llenguatge Humà:** El nostre valor és la consultoria traduïda. No parlem de bitrates o hypervisors amb el client, parlem de com estalviar temps i evitar que la seva facturació s'aturi.
+**- Llenguatge Humà:** El seu valor és la consultoria traduïda. No parlen de bitrates o hypervisors amb el client, parlen de com estalviar temps i evitar que la seva facturació s'aturi.
 
 ## Recursos necessaris: feu una llista dels recursos humans que necessitareu per donar servei aquest client. Sou suficients o us caldrà contractar a més personal?
 
