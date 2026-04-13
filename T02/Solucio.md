@@ -18,5 +18,9 @@ S’implementa un “Comptador Invisible” amb StatCounter per fer un seguiment
 
 <img width="1375" height="907" alt="image" src="https://github.com/user-attachments/assets/ffab4e89-943c-4b43-ad6d-c783ae0a7ace" />
 
+<img width="1429" height="907" alt="image" src="https://github.com/user-attachments/assets/d2915f83-64ff-4ca2-9f2a-407af77273cc" />
+
+<img width="1784" height="913" alt="image" src="https://github.com/user-attachments/assets/87d9bd4c-7442-4e01-a068-44ee1fdce4aa" />
+
 ## Enllaç de la pàgina web
 http://127.0.0.1:3000/docs/index.html?serverWindowId=b22635ec-356a-42d9-bbba-f7c1d2a7271b
