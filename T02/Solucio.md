@@ -1,4 +1,4 @@
-# Punts calus
+# Punts claus
 Haurem de crear el repositori per fer tota la feina
 
 <img width="751" height="779" alt="image" src="https://github.com/user-attachments/assets/a24f9515-9c6c-4c8d-b838-2c2f21ba7465" />
@@ -24,3 +24,6 @@ S’implementa un “Comptador Invisible” amb StatCounter per fer un seguiment
 
 ## Enllaç de la pàgina web
 [URL de la web](https://polhernandezgit.github.io/web-corporativa-Pol-H/)
+
+## Enllaç del repositori
+https://github.com/polhernandezgit/web-corporativa-Pol-H?tab=readme-ov-file
