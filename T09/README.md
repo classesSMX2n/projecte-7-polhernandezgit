@@ -18,3 +18,4 @@ Per tant, el vostre objectiu no és “fer un Gantt”, sinó demostrar que sabe
 Treballareu com a equip de projecte per construir una planificació completa i realista del desplegament de la solució per a FoodLogístics S.A., utilitzant un diagrama de Gantt generat amb PlantUML (UMLTree).
 
 ## Enllaç a la Solucio
+[Solucio.md](./Solucio.md)
