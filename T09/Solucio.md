@@ -105,6 +105,7 @@ Identifiqueu com a mínim:
 - 2 riscos crítics (reals, invasió zombi o abducció d’un alien no val)
 - Impacte en el projecte
 - Estratègia de mitigació
+
 👉 Exemple:
 - Retard en servidor → buffer o paral·lelització
 - Problemes amb cloud → alternativa definida
