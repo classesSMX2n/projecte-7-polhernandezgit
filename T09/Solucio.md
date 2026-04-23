@@ -109,7 +109,8 @@ Identifiqueu com a mínim:
 - Retard en servidor → buffer o paral·lelització
 - Problemes amb cloud → alternativa definida
 
-<img width="586" height="520" alt="image" src="https://github.com/user-attachments/assets/0c95215e-917b-486d-9289-59116310911a" />
+<img width="582" height="501" alt="image" src="https://github.com/user-attachments/assets/8d7e84f7-f6a6-4d0c-b7d4-edbd6eb3665c" />
+
 
 
 
