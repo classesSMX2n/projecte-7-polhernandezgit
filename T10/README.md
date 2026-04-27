@@ -4,3 +4,4 @@ Fins ara heu estat treballant de valent en la part tècnica del vostre projecte 
 Com a integrants de la vostra pròpia empresa de serveis informàtics, el vostre client, FoodLogístic S.A., us ha demanat una proposta econòmica detallada per a la modernització dels seus sistemes. Recordeu que el client no només compra tecnologia, sinó que compra confiança, temps i tranquil·litat. El vostre objectiu és lliurar un pressupost que demostri el vostre rigor professional i la viabilitat del projecte.
 
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
