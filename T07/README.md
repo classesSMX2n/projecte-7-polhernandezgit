@@ -4,3 +4,4 @@ A més de l’actualització de la seva infraestructura “FoodLogistic” neces
 
 L'objectiu d'aquesta activitat és investigar i avaluar diferents solucions de correu electrònic corporatiu al mercat per elaborar una proposta comercial i tècnica professional que resolgui els problemes del client, equilibrant funcionalitats, seguretat i pressupost.
 ## Enllaç a la Solució
+[Solucio.md](./Solucio.md)
