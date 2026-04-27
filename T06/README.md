@@ -3,3 +3,4 @@
 En una activitat anterior (T02) ja has fet la teva proposta de millora per la presència a Internet de FoodLogistic S.A. Ara toca anar un pas més enllà i adaptar la pàgina a les diferents normatives que regulen les pàgines web d’empreses i organitzacions.
 
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
