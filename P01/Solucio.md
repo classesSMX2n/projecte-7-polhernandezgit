@@ -24,7 +24,7 @@ A partir de l'estudi de mercat i la consulta inicial, s'han detectat els següen
 
 ## **3\. Proposta de Solució**
 
-### **3.1 Infraestructura i Serveis al Núvol**
+## **3.1 Infraestructura i Serveis al Núvol**
 
 S'ha escollit **Microsoft 365 Business Standard** com a eix central per la seva robustesa i seguretat.
 
@@ -32,13 +32,13 @@ S'ha escollit **Microsoft 365 Business Standard** com a eix central per la seva 
 - **Eines:** Versió d'escriptori d'Excel per a inventaris complexos i Teams per a comunicació centralitzada.  
 - **Capacitat:** 50 GB de bústia de correu i 1 TB d'emmagatzematge al núvol per usuari.
 
-### **3.2 Presència Web i Seguretat Digital**
+## **3.2 Presència Web i Seguretat Digital**
 
 - **Tecnologia:** HTML5 semàntic per a SEO, animacions suaus i estats *hover* refinats per a l'experiència d'usuari.  
 - **Legalitat:** Banner de cookies amb memòria de sessió, llistes de control de consentiment i modals informatius (RGPD/LSSI-CE).  
 - **Sostenibilitat:** Ús de fonts de sistema per minimitzar el pes de la web i la petjada de carboni.
 
-**3.3 Seguretat i LOPD**
+## **3.3 Seguretat i LOPD**
 
 ## 
 
