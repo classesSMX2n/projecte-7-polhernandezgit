@@ -1,10 +1,10 @@
-**Descripció de l’activitat**
+## **Descripció de l’activitat**
 
 **Pas 1: Reflexió Individual**
 
 Cadascun de vosaltres ha d’analitzar individualment la web corporativa que ha creat individualment per al client. Redacta una petita llista amb els punts forts i febles de la teva pròpia proposta segons el que demana el client.
 
-**Reflexió Pol Hernández:**
+## **Reflexió Pol Hernández:**
 
 ### **Punts Forts**
 
@@ -20,7 +20,7 @@ Cadascun de vosaltres ha d’analitzar individualment la web corporativa que ha 
 - **SEO de pàgina única:** Les polítiques legals estan en modals per comoditat de l'usuari, però per a un SEO més agressiu, aquests textos haurien de tenir les seves pròpies URLs per ser indexats individualment per Google.  
 - **Dependència de recursos externs:** La tipografia i les imatges depenen de servidors externs (Google Fonts i Unsplash). Si aquests serveis cauen o no hi ha connexió a internet, l'estètica de la web es veuria afectada.
 
-**Reflexió Jan Fernández**
+## **Reflexió Jan Fernández**
 
 ### **Punts Forts** 
 
@@ -37,11 +37,11 @@ Cadascun de vosaltres ha d’analitzar individualment la web corporativa que ha 
 - **Accessibilitat Millorable:** Tot i ser semàntica, es podrien afegir més atributs ARIA i controls de contrast de color més rigorosos per garantir que persones amb diversitat visual puguin navegar per la informació logística sense cap barrera.  
 - **Interactivitat Limitada:** El formulari actual simula l'enviament. Per a un entorn real, caldria implementar una validació de backend més complexa i un sistema de protecció contra spam (com un ReCaptcha) per evitar correus brossa a l'adreça corporativa.
 
-**Pas 2: Debat i Contrast d’idees**
+## **Pas 2: Debat i Contrast d’idees**
 
 Ara els membres de l’equip us reuniu per explicar les reflexions individuals de les seves propostes. Durant aquesta fase, és obligatori que defenseu els vostres arguments procurant posar en pràctica la [comunicació assertiva](https://linkiafp.es/ca/blog/consells-aconseguir-comunicacio-assertiva-empresa/) i escolteu els dels companys.
 
-### **1\. En que estem d’acord?**
+## **1\. En que estem d’acord?**
 
 Es mantindrà l'estructura semàntica HTML5 i el sistema de modals per als textos legals, ja que millora la conversió (l'usuari no marxa de la pàgina per llegir la privacitat).
 
@@ -51,7 +51,7 @@ Es mantindrà l'estructura semàntica HTML5 i el sistema de modals per als texto
 
 ### 
 
-### **2\. Defensa d’arguments**
+##  **2\. Defensa d’arguments**
 
 ### **1\. Sobre la Identitat Visual i el Rendiment (Tipografia)**
 
@@ -73,7 +73,7 @@ Es mantindrà l'estructura semàntica HTML5 i el sistema de modals per als texto
 - **Opinió d'enPol:** Identifico com a feblesa la naturalesa **estàtica** del codi. Opino que, per créixer, el projecte hauria de migrar cap a un sistema dinàmic i millorar el SEO mitjançant URLs individuals per a les pàgines legals en lloc de modals.  
 - **Opinió d'en Jan:** Identifico la manca de **Mode Fosc** com un punt feble clau. Des de la meva perspectiva de sostenibilitat, crec que el disseny clar actual és una oportunitat perduda per estalviar energia i millorar l'accessibilitat visual.
 
-**Pas 3: Negociació i Consens Final**
+## **Pas 3: Negociació i Consens Final**
 
 Després d'avaluar les diferents propostes, els integrants de l'equip heu d'entrar en una fase de negociació per triar la web definitiva. No podeu prendre la decisió de manera arbitrària; s'ha d'arribar a un acord per decidir quina solució a presentar.
 
