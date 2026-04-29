@@ -60,7 +60,7 @@ S'ha escollit **Microsoft 365 Business Standard** com a eix central per la seva 
   2. **La Gestoria:** En **David** explica de forma detallada la relació jurídica entre l'empresa (Responsable) i la gestoria (Encarregat), aclarint qui paga la multa si hi ha un error.  
   3. **Els Drets dels ciutadans:** En **Jan** i en **David** lletregen i expliquen el concepte **ARSULIPO**. En **Pol** simula situacions (trucades de persones que volen ser esborrades) per veure com reaccionar.
 
-**3.4 Presència web**
+## **3.4 Presència web**
 
 Link de la web:[https://polhernandezgit.github.io/web-projecte7-polhernandezgit/](https://polhernandezgit.github.io/web-projecte7-polhernandezgit/)
 
