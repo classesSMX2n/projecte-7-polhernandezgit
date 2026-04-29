@@ -1,4 +1,5 @@
-# Introducció 
+# T08:  Tria de la web definitiva.
+## Introducció 
 Benvinguts a una de les fases més importants d'aquest projecte. Com a integrants de la vostra pròpia empresa de serveis informàtics, ha arribat el moment de demostrar que sabeu treballar en equip per oferir solucions professionals.
 Fins ara, cadascú de vosaltres ha estat treballant de manera individual en el disseny de la pàgina web. Ara bé, el client no vol rebre diferents propostes diferents d'una mateixa empresa; FoodLogístic S.A. espera una solució única, consensuada i professional que s'inclogui a la memòria tècnica final.
 
