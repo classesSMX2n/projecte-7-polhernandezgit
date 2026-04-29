@@ -17,7 +17,8 @@ L’objectiu és que el client pugui:
 - Visualitzar-la
 - Avaluar-ne la viabilitat
 - Prendre decisions
-- 
+
 Aquesta memòria constitueix una evidència fonamental del projecte, ja que permet demostrar la capacitat de documentar, justificar i comunicar solucions tècniques de manera estructurada
 
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
