@@ -78,7 +78,7 @@ Com a desenvolupadors d'aquest projecte web, la nostra missió ha estat transfor
 ### **B. Protecció de dades**
 
 - **Política de Privacitat:** Informació detallada sobre qui és el responsable de les dades, per què es recullen i durant quant de temps es guarden.  
-- \[ \] **Drets ARSLOP:** Garantir que l'usuari sap com exercir els seus drets d'Accés, Rectificació, Supressió, Limitació, Oposició i Portabilitat.  
+- **Drets ARSULIPO:** Garantir que l'usuari sap com exercir els seus drets d'Accés, Rectificació, Supressió, Limitació, Oposició i Portabilitat.  
 - **Base Legal:** Indicar que la base per tractar les dades és el consentiment de l'usuari.
 
 ### **C. Gestió del consentiment** 
