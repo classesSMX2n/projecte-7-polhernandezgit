@@ -88,6 +88,6 @@ Entre tots hem arribat a aquestes conclusions:
 3. **Filosofia de Sostenibilitat:** Es manté l'aposta d'en Jan per les fonts de sistema per garantir que la web sigui el més eco-friendly i ràpida possible, complint amb la memòria de sostenibilitat presentada.  
 4. **Seguretat i Legalitat:** Hem resolt molt bé el RGPD, però s'utilitzarà el redactat dels modals d'en Jan per estar totalment alineat amb la ubicació física de Mataró.
 
-[https://equezer.github.io/FoodLogistic-Jan/](https://equezer.github.io/FoodLogistic-Jan/)
+[Web corporativa definitiva](https://equezer.github.io/FoodLogistic-Jan/)
 
 
