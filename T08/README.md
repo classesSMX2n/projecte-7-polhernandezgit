@@ -4,6 +4,7 @@ Fins ara, cadascú de vosaltres ha estat treballant de manera individual en el d
 
 <img width="506" height="282" alt="image" src="https://github.com/user-attachments/assets/3b0c7184-c75e-40c9-8e17-15c5f18b12a3" />
 
+---
 Per tal d'evitar triar una proposta a cegues o sense criteri, aplicarem una dinàmica de treball en equip per fomentar la participació de tothom. Aquest procés us servirà per:
 - Reflexionar individualment sobre els encerts del vostre propi disseny.
 - Posar en comú les idees amb la resta de companys de l'equip.
