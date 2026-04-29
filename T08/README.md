@@ -12,3 +12,4 @@ Per tal d'evitar triar una proposta a cegues o sense criteri, aplicarem una din�
 Recordeu que el vostre objectiu com a socis de l'empresa informàtica és defensar una proposta guanyadora que convenci el client, sigui tècnicament viable i compleix totes les exigències legals.
 
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
