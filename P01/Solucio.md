@@ -62,7 +62,7 @@ S'ha escollit **Microsoft 365 Business Standard** com a eix central per la seva 
 
 ## **3.4 Presència web**
 
-Link de la web:[https://polhernandezgit.github.io/web-projecte7-polhernandezgit/](https://polhernandezgit.github.io/web-projecte7-polhernandezgit/)
+Link de la web: [https://polhernandezgit.github.io/web-projecte7-polhernandezgit/](https://polhernandezgit.github.io/web-projecte7-polhernandezgit/)
 
 ## **1\. Descripció funcional**
 
