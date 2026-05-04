@@ -8,7 +8,7 @@ Tanmateix, en un entorn professional real, qualsevol solució tecnològica ha d�
 
 Aquest document té com a objectiu presentar el pressupost complet del projecte, incloent tant els costos d’implantació inicial com els costos recurrents, demostrant la viabilitat econòmica i el rigor professional de la proposta.
 
-**2\. Cost d’Implantació (Pagament Únic)**
+## **2\. Cost d’Implantació (Pagament Únic)**
 
 ## **2.1 Maquinari i Programari**
 
