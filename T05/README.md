@@ -6,3 +6,4 @@ Dins del conjunt de peticions per part FoodLogistic, se us ha encarregat la crea
 ---
 Mitjançant la creació de videotutorials formatius, haureu d'aconseguir que tant el personal de magatzem com els caps de Recursos Humans sàpiguen exactament què poden (i què no poden) fer amb les dades dels usuaris en el seu dia a dia. Recordeu: una empresa segura és aquella on tothom sap protegir la informació!
 ## Enllaç a la solució
+[Solucio.md](./Solucio.md)
