@@ -1,4 +1,2 @@
-# Vídeo 1: "Compliment legal en el dia a dia a FoodLogistic" (General)
-
-
-# Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)
+# Enllaç de la carpeta amb el contingut
+https://drive.google.com/drive/folders/183AhbRG32BTtW5uFnlYfYSh_9sWWqwga?usp=sharing
